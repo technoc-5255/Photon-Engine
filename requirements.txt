@@ -1,0 +1,5 @@
+pillow
+tqdm
+numpy
+scipy
+cupy-cuda12x

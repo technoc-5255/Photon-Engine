@@ -1,5 +1,9 @@
 PI = 3.1415926535
 INF = float('inf')
+POINT = 0
+OBJECT = 1
+NORMAL = 2
+COLLISION = 3
 
 class Vector3:
     def __init__(self, x:float=0, y:float=0,z:float=0):
